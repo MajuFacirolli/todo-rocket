@@ -1,0 +1,29 @@
+.listHeader {
+    width: 100%;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.listHeader > aside {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    font-size: 0.875rem;
+    font-weight: bold;
+}
+.listHeader > aside:first-child {
+    color: var(--blue);
+}
+  
+.listHeader > aside:last-child {
+    color: var(--purple);
+}
+
+.listHeader > aside span {
+    background: var(--gray-400);
+    color: var(--gray-200);
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 1rem;
+}
