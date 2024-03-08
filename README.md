@@ -16,6 +16,8 @@ The application has a simple interface, where it is possible to add a new task t
 
 In addition, the application shows the progress of task completion, indicating how many tasks have been created and how many have been completed.
 
+> Access the page [here](https://majufacirolli.github.io/todo-rocket/)
+
 ## Next Steps
 This project represents just the beginning of my learning journey in ReactJS. I plan to continue exploring more concepts and improving my skills to develop increasingly complex and robust applications.
 
